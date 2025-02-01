@@ -16,11 +16,11 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7885203664:AAGawUk'     # bot token dalo yahha 
+TOKEN = '7449360654:AAH2uk4LrfduzeehjU7VLC2AxSkzpjgSwb8'     # bot token dalo yahha 
 MONGO_URI = 'mongodb+srv://Bishal:Bishal@bishal.dffybpx.mongodb.net/?retryWrites=true&w=majority&appName=Bishal'
-FORWARD_CHANNEL_ID = -1002488529857          #telegram mai group bana ke chat id dalo      
-CHANNEL_ID = -1002488529857                      #telegram mai group bana ke chat id dalo      
-error_channel_id = -1002488529857                #telegram mai group bana ke chat id dalo      
+FORWARD_CHANNEL_ID = -1002239009987          #telegram mai group bana ke chat id dalo      
+CHANNEL_ID = -1002239009987                      #telegram mai group bana ke chat id dalo      
+error_channel_id = -1002239009987                #telegram mai group bana ke chat id dalo      
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
